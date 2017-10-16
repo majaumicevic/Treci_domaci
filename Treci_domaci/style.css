@@ -1,0 +1,82 @@
+body{
+	margin:auto;
+	width:850px;
+	padding:50px;
+	border:solid;
+	margin-top:100px;
+}
+#prvi{
+	width:150px;
+	height:170px;
+	border:solid;
+	padding:20px;
+	margin-right:20px;
+	float:left;
+	
+}
+#krug1{
+	height:70px;
+	width:70px;
+	background-color:#242424;
+	border-radius:50px;
+	position:relative;
+	bottom:50px;
+	left:40px;
+}
+#drugi{
+	width:150px;
+	height:170px;
+	border:solid;
+	padding:20px;
+	margin-right:20px;
+	float:left;
+}
+#krug2{
+	height:70px;
+	width:70px;
+	background-color:#242424;
+	border-radius:50px;
+	position:relative;
+	bottom:50px;
+	left:40px;
+}
+#treci{
+	width:150px;
+	height:170px;
+	border:solid;
+	padding:20px;
+	margin-right:20px;
+	float:left;
+}
+#krug3{
+	height:70px;
+	width:70px;
+	background-color:#242424;
+	border-radius:50px;
+	position:relative;
+	bottom:50px;
+	left:40px;
+}
+#cetvrti{
+	width:150px;
+	height:170px;
+	border:solid;
+	padding:20px;
+	float:left;
+}
+#krug4{
+	height:70px;
+	width:70px;
+	background-color:#242424;
+	border-radius:50px;
+	position:relative;
+	bottom:50px;
+	left:40px;
+}
+#peti{
+	clear:both;
+}
+
+
+
+
